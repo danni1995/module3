@@ -2,7 +2,7 @@
 
 VERY basic site done with bootstrap! 
 
-My main focus was getting familiar with bootstrap and I only used theire home site to make this site. 
+My main focus was getting familiar with bootstrap.
 I did not want to take a pre-made template. 
 
 
