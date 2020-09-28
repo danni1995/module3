@@ -7,4 +7,4 @@ I did not want to take a pre-made template.
 
 
 Surge URL: 
-confused-plastic.surge.sh
+https://confused-plastic.surge.sh
